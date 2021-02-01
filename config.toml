@@ -1,0 +1,4 @@
+baseURL = "https://catmoviesdorfuhutu.vercel.app"
+languageCode = "en-us"
+title = "Cat Series Movies"
+theme = "hugo-theme-minos"
